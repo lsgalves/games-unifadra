@@ -20,7 +20,7 @@
     "cookie": "^0.4.1",
     "date-fns": "^2.16.1",
     "google-spreadsheet": "^3.0.13",
-    "next": "^10.0.3",
+    "next": "^13.3.1",
     "next-connect": "^0.9.1",
     "passport": "^0.4.1",
     "passport-google-oauth20": "^2.0.0",
